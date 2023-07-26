@@ -1,5 +1,5 @@
 # VideoGraphiti
-Developed a WordPress website theme for a video filming and editing start-up.
+A fully customizable WordPress website theme for a video filming and editing start-up.
 
 ## Preview
 ![videographiti-preview](./videographiti-preview.png)
