@@ -21,4 +21,3 @@ A fully customizable WordPress website theme for a video filming and editing sta
 ## File structure
 * v3.1_videographiti.zip
 * v3.1_videographiti
----
